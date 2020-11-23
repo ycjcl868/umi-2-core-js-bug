@@ -11,3 +11,4 @@ $ cnpm i && BABEL_CACHE=none cnpm run build
 ### 原因
 
 只要开了 `treeShaking: true` 就是好的，关了就会挂掉。
+
